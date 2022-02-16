@@ -1,5 +1,6 @@
 ## Работа 1. Исследование гамма-коррекции
 автор: Бекетов Р.И.
+
 дата: 16.02.2022
 
 <!-- url: https://github.com/samoan-soft/beketov_r_i/edit/main/prj.labs/lab01/ -->
